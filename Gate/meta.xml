@@ -1,0 +1,4 @@
+<meta>
+    <info author="Mohammad_PCSX" version="1.0.0" name="Gate" description="Gate Server" type="script"/>
+    <script src="Server.lua" type="server" />
+</meta>
