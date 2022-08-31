@@ -1,1 +1,3 @@
-# MTA-Gate
+- 👋 Hi, I’m @Mohammad-PCSX
+- 👀 Scripting MTA
+- 📫 Gate System
